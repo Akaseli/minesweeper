@@ -1,5 +1,5 @@
 # Miinaharava
-Tehty harjoitus työnä Kerttulin Lukion ICT8 kurssille.
+Tehty harjoitustyönä Kerttulin Lukion ICT8 kurssille.
 
 ### Skriptit
 
