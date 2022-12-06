@@ -1,0 +1,102 @@
+p, h1, h2{
+    text-align: center;
+    color: white;
+}
+
+#header{
+    text-align: center;
+}
+
+button{
+    border: 1px black;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    height: 2em;
+    width: 100px;
+    margin: 2px;
+    border: 4px solid;
+    border-color: white black black rgb(204, 204, 204);
+    background-color: rgb(182, 182, 182);
+}
+
+td{
+    height: 40px;
+    width: 40px;
+}
+
+td *{
+    margin: 0;
+    padding: 0;
+}
+
+td p{
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    background-color: rgb(37, 37, 37);
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+p.lippu{
+    font-size: 1.6em; 
+    margin: 0px;
+    padding: 0px;
+}
+
+.avoin, .suljettu{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.suljettu{
+    height: 34px;
+    width: 34px;
+    border: 4px solid;
+    border-color: white black black rgb(204, 204, 204);
+    background-color: rgb(182, 182, 182);
+}
+
+.avoin{
+    border: 1px solid lightgray;
+}
+table{
+    border: 6px solid white;
+}
+
+
+/* Footer */
+#footer{
+    width: 100%;
+}
+
+#footer img{
+    height: 30px;
+    width: 30px;
+}
+
+#source{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#source *{
+    padding: 2px;
+}
+
+
